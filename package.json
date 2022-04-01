@@ -1,5 +1,5 @@
 {
-  "name": "npm-library",
+  "name": "npm-library-fty-test",
   "version": "1.0.0",
   "description": "test npm library",
   "main": "index.js",
