@@ -1,0 +1,22 @@
+{
+  "name": "npm-library",
+  "version": "1.0.0",
+  "description": "test npm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q897586834/npm-library.git"
+  },
+  "author": "sakura_fty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q897586834/npm-library/issues"
+  },
+  "homepage": "https://github.com/q897586834/npm-library#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
